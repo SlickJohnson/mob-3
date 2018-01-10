@@ -1,0 +1,27 @@
+{
+  "Mac" : [
+    {
+      "name" : "KeychainSwift",
+      "hash" : "3fa751bb0a9e8fe3af3d74bfba669c030eea42db2b5ba497054df91cf9aca58f"
+    }
+  ],
+  "watchOS" : [
+    {
+      "name" : "KeychainSwift",
+      "hash" : "674d5105630c67ac17461e40bc4f6d0672eaec4c386bc69cb8db86120c10ba26"
+    }
+  ],
+  "tvOS" : [
+    {
+      "name" : "KeychainSwift",
+      "hash" : "30d70f4e07bc95b0c0489d8b6fbc4b18ba7dff28c24e06a04321a69be27c532b"
+    }
+  ],
+  "commitish" : "10.0.0",
+  "iOS" : [
+    {
+      "name" : "KeychainSwift",
+      "hash" : "1727c4f1f80d08255d0ac6a4f9ae7c32be2cde09d03e58329285f41e4ddc4f39"
+    }
+  ]
+}
